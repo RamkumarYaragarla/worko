@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "ramkumar launches the first post"
 date: 2017-11-24
 ---
