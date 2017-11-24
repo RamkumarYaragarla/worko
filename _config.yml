@@ -1,4 +1,2 @@
-theme: jekyll-theme-cayman
 name: Ramkumar Yaragarla
-markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
