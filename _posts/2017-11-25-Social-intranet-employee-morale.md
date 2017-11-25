@@ -5,7 +5,9 @@ date: 2017-11-25
 ---
 
 Social intranets are simple websites serving internal webpages for its employees within the company. 
-The information could be on sharing work specific knowledge or other project activities that employees share among each other. 
+
+The information could be on sharing work specific knowledge or other project activities that employees share among each other.
+
 Traditionally social intranets have been hosting the company’s policies and procedures for the benefit of everybody. 
 Intranets have come a long way from that benefit to creating a meaningful environment for employees to share and connect. 
 
