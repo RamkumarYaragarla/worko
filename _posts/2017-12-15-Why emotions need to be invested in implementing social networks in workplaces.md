@@ -21,7 +21,7 @@ to its employees. </p>
 
 <p>According to Dr Guy Huy, these are the four pillars of authenticity, pride, attachment, and fun. 
 
-That is why it is often said that to make social networks successful and to realize enterprise social network benefits it is important that employees crack a joke with each other and share a laugh on the social network. 
+That is why it is often said that to make social networks successful and to realize <a href="http://www.workmonkeylabs.com/benefits-of-social-media-in-the-workplace-an-employee-perspective/"> Enterprise social network benefits</a> it is important that employees crack a joke with each other and share a laugh on the social network. 
 It builds emotional capital. </p>
 
 Traditionally, systems implementation follows the rule based hierarchical flow for software requirements gathering.
