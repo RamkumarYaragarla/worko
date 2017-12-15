@@ -7,6 +7,7 @@ date: 2017-12-15
 <p>Guy huy is the professor at Insead who talks about why corporate social media systems are failing.
 He says that corporate social network implementations need to be looked at from an emotional capital perspective and companies need to 
 do away from looking at deploying such networks purely from a technological perspective. </p> 
+
 <p>Dr. Huy has working on emotional capital and 
 suggests four pillars that organizations need to keep in mind during social network implementations within the organization.
 According to another research from the Altimeter group, only about half of the enterprise collaboration tools get attention from the 
