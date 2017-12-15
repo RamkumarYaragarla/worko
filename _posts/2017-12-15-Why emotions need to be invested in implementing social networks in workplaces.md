@@ -16,7 +16,7 @@ whole organization.</p>
 <p>The question is obvious. Why adoption and usage of social networks in organizations fail? 
 The answers probably lie in looking at the systems implementation from a concept called emotional capital.
 From my perspective, emotional capital is similar to social capital in terms of its understanding and how it works our professional lives. 
-It is the invisible bond binds employees to together as a team but also with the organization as a whole (with its processes and systems)
+It is the invisible bond that binds employees to together as a team but also with the organization as a whole (with its processes and systems)
 to its employees. </p>
 
 <p>According to Dr Guy Huy, these are the four pillars of authenticity, pride, attachment, and fun. 
