@@ -39,7 +39,7 @@ Smooth, real-estate management isn't always the norm. You need patience and time
 
 <h2>Volatile Conditions</h2>
 
-<p>If you invest in gold, you're in for the ride of your life. This commodity is extremely volatile because its value is often dictated by economic inflation, reports Bankrate. It's not unheard of for gold's value to change 10 or more percentage points at a time. If you're looking for a quick way to gain more funds, gold is a tempting pathway.</p>
+<p>If you invest in gold, you're in for the ride of your life. This commodity is extremely volatile because its value is often dictated by economic inflation, reports <a href="https://www.bankrate.com/finance/investing/pros-cons-investing-gold-1.aspx"> Bankrate</a>. It's not unheard of for gold's value to change 10 or more percentage points at a time. If you're looking for a quick way to gain more funds, gold is a tempting pathway.</p>
 
 <p>It's difficult, however, to gauge the volatile conditions impacting gold investments. You can easily lose 12 percent of your investment over the course of one day. Real estate will always be a steadier investment for the conservative investor.</p>
 
