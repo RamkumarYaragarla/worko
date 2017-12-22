@@ -35,7 +35,7 @@ Each property gives you a conservative return over time. Patient people win out 
 
 Unlike gold and cryptocurrency, real-estate investing involves people. If you're good at networking, this factor doesn't play a major role. However, there are certain issues that are uncontrollable in the real-estate world. You might have tenants that are demanding or fail to pay their lease. An apartment might be significantly damaged after a tenant moves out, which requires extensive repairs that may not be covered by the cleaning deposit. 
 
-Smooth, real-estate management isn't always the norm. You need patience and time for this investment choice (not to mention expert advice) to pan out with ample funds.
+Smooth, real-estate management isn't always the norm. You need patience and time for this investment choice (not to mention <a href="https://lockedon.com/"> expert advice </a>) to pan out with ample funds.
 
 <h2>Volatile Conditions</h2>
 
@@ -49,7 +49,7 @@ Smooth, real-estate management isn't always the norm. You need patience and time
 
 <h2>Neighborhood Improvements</h2>
 
-<p>There's a lot of selfishness when it comes to dealing with gold or cryptocurrency. Although your real estate is technically in your name only, you have a chance to impact others with community beautification, states Peer Realty. Keep up with the maintenance on the home's exterior when you rent it out. You increase its value while improving your relationship with the tenants.</p> 
+<p>There's a lot of selfishness when it comes to dealing with gold or cryptocurrency. Although your real estate is technically in your name only, you have a chance to impact others with community beautification, states <a href="https://peerrealty.com/blog/pros-and-cons-of-different-real-estate-investments"> Peer realty</a>. Keep up with the maintenance on the home's exterior when you rent it out. You increase its value while improving your relationship with the tenants.</p> 
 
 <p>By improving your property, this action might encourage others to do the same thing. Pride in your neighborhood leads to several results, such as:
 
